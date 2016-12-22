@@ -17,15 +17,15 @@
 ## Диаграмма классов
 ![Forecast App]( http://s9.uploads.ru/t/A0fUh.png "Forecast App")
 ## Диаграмма прецедентов
-![Forecast App]( http://s1.uploads.ru/t/r08ju.png"Forecast App")
+![Forecast App]( http://s1.uploads.ru/t/r08ju.png "Forecast App")
 ## Диаграмма последовательности
-![Forecast App]( http://s5.uploads.ru/t/mpCXU.png"Forecast App")
+![Forecast App]( http://s5.uploads.ru/t/mpCXU.png "Forecast App")
 ## Диаграмма объектов
-![Forecast App]( http://sa.uploads.ru/t/Z3MwO.png"Forecast App")
+![Forecast App]( http://sa.uploads.ru/t/Z3MwO.png "Forecast App")
 ## Диаграмма состояний 
-![Forecast App]( http://s1.uploads.ru/t/EkuJ5.png"Forecast App")
+![Forecast App]( http://s1.uploads.ru/t/EkuJ5.png "Forecast App")
 # 4 Схема работы комплекса
-![Forecast App]( http://s5.uploads.ru/t/oU1a8.png"Forecast App")
+![Forecast App]( http://s5.uploads.ru/t/oU1a8.png "Forecast App")
 # 5 Условия выполнения проекта
 
 ## Для работы программы«Учетная тарификация стрелкового клуба » необходим следующий набор технических средств:
